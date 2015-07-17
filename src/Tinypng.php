@@ -2,6 +2,7 @@
 
 const VERSION = '0.8.2';
 
+
 /**
  * @author Levi <levi.durfee@gmail.com>
  * @version 0.8.2
